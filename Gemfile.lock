@@ -387,10 +387,10 @@ git checkout HEAD -- Gemfile.lock
     thread_safe (0.3.6)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
-       custom-build
-    tzinfo (1.2.7)
+      custom-build
+ tzinfo (1.2.7)
 =======
-    tzinfo (1.2.9)
+ tzinfo (1.2.9)
  main
       thread_safe (~> 0.1)
     unf (0.1.4)
