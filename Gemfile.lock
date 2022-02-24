@@ -1,5 +1,4 @@
 GEM
-git checkout HEAD -- Gemfile.lock
   remote: https://rubygems.org/
   specs:
    custom-build
