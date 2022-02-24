@@ -198,7 +198,7 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
-      <<<<<<< custom-build
+      custom-build
     jekyll-mentions (1.5.1)
 =======
     jekyll-mentions (1.6.0)
